@@ -1,0 +1,6 @@
+bootybay.map 27 36 27 160 BugTwoSearcher demo
+divideandconquer.map 25 32 120 120 BugTwoSearcher demo
+battleground.map 25 32 120 120 BugTwoSearcher demo
+
+bootybay.map 150 50 120 120 25 32
+divideandconquer.map 150 50 120 120 25 32
